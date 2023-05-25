@@ -47,4 +47,4 @@ We use Lasso Regression to perform house price evaluation task.
 Just `cd house` and run `pre_s9.py` and got the regression result.
 
 ![Prediction Results](./pictures/result.png)
-![Case Study Results](./pictures/case_study.png)
+
