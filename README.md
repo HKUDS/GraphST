@@ -1,7 +1,7 @@
 ![Framework](./pictures/framework.png)
 
-# Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation #
-This is the implementation of Multi-View Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation in the following paper:
+# Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation (ICML'23) #
+This is the implementation of Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation in the following paper:
 
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
